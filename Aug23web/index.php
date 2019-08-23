@@ -5,7 +5,7 @@
 
 <h1 align="center" style="color: white">Login</h1>
 <hr>
-<center><form action="list photos.php">
+<center><form action="list photos.html">
   <br>Username:
   <input type="text" name="Username">
   <br><br>Password:
