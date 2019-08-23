@@ -12,7 +12,7 @@
   <input type="Password" name="Password" ">
   <br><br>
   <input type="submit" value="Login">
- <a href="register.php">Register?</a>
+ <a href="register.html">Register?</a>
  <hr>
 </form> </center>
 </body>
